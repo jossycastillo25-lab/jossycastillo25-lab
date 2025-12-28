@@ -49,12 +49,15 @@ Soy **Abogada y Notario Público**, actualmente transformándome en **Ingeniera 
 Si buscas un profesional que hable "Derecho" y "Código" con la misma fluidez, ¡hablemos!
 
 
-[![Gmail](jossycastillo25@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jossycastillo25@gmail.com)
 
 ---
 ### ⚡ Fun Fact
 "Mi debugger favorito es el Código Civil de Nicaragua, pero mi IDE favorito es VS Code."
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=gold" alt="Estadísticas de Jossie" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Estadísticas-blue?style=flat-square&logo=google-analytics&logoColor=white" alt="Stats Icon">
+  <a href="LINK_A_TUS_ESTADISTICAS">Estadísticas de Jossie</a>
 </p>
+
+![Leyes y Bits](https://img.shields.io/badge/Legal--Tech-Derecho%20%2B%20Código-darkgreen?style=for-the-badge)
