@@ -57,7 +57,7 @@ Si buscas un profesional que hable "Derecho" y "Código" con la misma fluidez, �
 
 <p align="left">
   <img src="https://img.shields.io/badge/Estadísticas-blue?style=flat-square&logo=google-analytics&logoColor=white" alt="Stats Icon">
-  <a href="LINK_A_TUS_ESTADISTICAS">Estadísticas de Jossie</a>
+  <a href="jossycastillo25-lab">Estadísticas de Jossie</a>
 </p>
 
-![Leyes y Bits](https://img.shields.io/badge/Legal--Tech-Derecho%20%2B%20Código-darkgreen?style=for-the-badge)
+⚖️ [Notaria Castillo](https://sites.google.com/view/notariacastillo/inicio/)
